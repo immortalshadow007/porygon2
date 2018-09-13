@@ -1,0 +1,6 @@
+name = input("Enter the name: ")
+age = input("Enter the age: ")
+sport = input("Enter the name of the sport: ")
+print(" my name is " +name)
+print(" I'm " +age+ "old")
+print(" my favourite sport is " +sport)
